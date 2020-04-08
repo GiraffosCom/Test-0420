@@ -1,0 +1,4 @@
+[submodule "GiraffosCom/Odoo_Addons/12.0"]
+	path = GiraffosCom/Odoo_Addons/12.0
+	url = git@github.com:GiraffosCom/Odoo_Addons.git
+	branch = master
